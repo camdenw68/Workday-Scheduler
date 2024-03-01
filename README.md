@@ -40,6 +40,8 @@ The following animation demonstrates the application functionality:
 screenshot of final product
 ![Alt text](<Screenshot 2024-02-26 at 2.56.57 PM.png>)
 
+link to deployed application:https://camdenw68.github.io/Workday-Scheduler/
+
 ## Grading Requirements
 
 > **Note**: If a Challenge assignment submission is marked as “0”, it is considered incomplete and will not count towards your graduation requirements. Examples of incomplete submissions include the following:
